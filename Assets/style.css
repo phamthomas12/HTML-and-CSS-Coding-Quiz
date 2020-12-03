@@ -1,0 +1,41 @@
+html,body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    height: 100%;
+}
+
+#pageFront{
+ margin-top: 10px;
+ 
+}
+
+section{
+    max-width: 50%;
+    margin: 0 auto;
+   text-align: center;
+}
+
+#topBanner{
+      background-color: blueviolet;
+      padding: 1%;
+}
+
+#controls{
+    max-width:100%;
+    margin: 0 auto;
+    color: white;
+}
+ 
+#score{
+    background-color: purple;
+    color: cornsilk;
+    
+}
+
+#timer{
+    text-align: right;
+    float: right;
+}
+
+#timer p{
+margin: 2px;
+}
