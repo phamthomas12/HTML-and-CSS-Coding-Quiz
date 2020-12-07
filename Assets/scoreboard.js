@@ -38,7 +38,7 @@ function renderScores() {
 
 clearScores.addEventListener("click", function () {
     clearScoreboard();
-    window.location.href = "highScores.html";
+    window.location.href = "highScore.html";
 })
 backButton.addEventListener("click", function () {
     window.location.href = "index.html";
